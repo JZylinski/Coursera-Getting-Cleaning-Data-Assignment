@@ -20,7 +20,7 @@ In addition to this README.md and the code book document, the goal of the projec
 
 ### Notes Regarding Script
 
-Prior to running this script you must download the data from [HERE](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)and unzip the data to the working directory.
+Prior to running this script you must download the data from [HERE] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)and unzip the data to the working directory.
 Once confirmed that the working directory contains the folder "UCI HAR Dataset" the above script shall complete the steps as required for the assignment.
 
 
