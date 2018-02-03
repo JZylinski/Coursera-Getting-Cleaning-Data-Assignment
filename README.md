@@ -4,7 +4,7 @@ This repo contains the assignment requirements for the Getting and Cleaning Data
 
 ### The Data
 
-The data was collected from smartphones worn during experiments run on 30 test subjects performing six different activities.<sup>1</sup> The smartphone data was generated via the device's embedded accelerometer and gyroscope. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
+The data was collected from smartphones worn during experiments run on 30 test subjects performing six different activities. The smartphone data was generated via the device's embedded accelerometer and gyroscope. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.<sup>1</sup>
 
 Detailed information about the data used in this assignment can be found in the [University of California Irvine (UCI) Machine Learning Repository.](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) The actual data is [here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
