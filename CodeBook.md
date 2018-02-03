@@ -22,7 +22,7 @@ For each record in the tidy dataset produced by run_analysis.R:
 - The subject ID and activity labels were concatenated with the 561-feature vector
 - The training and test data were combined into a single data set
 - The data set was pared down to 66 of the 561 variables representing those variables measuring the mean and standard deviation of signals recorded during the experiment.
--Variable names were modified to be more descriptive and remove special characters (exclusive of ".") Refer to table below of final variables.
+- Variable names were modified to be more descriptive and remove special characters (exclusive of ".") Refer to table below of final variables.
 - The mean of observations summarized by subject-activity pairs is recorded in the tidy dataset with a total of 180 observations.
 
 
