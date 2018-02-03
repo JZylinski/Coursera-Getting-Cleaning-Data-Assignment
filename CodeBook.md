@@ -27,7 +27,6 @@ For each record in the tidy dataset produced by run_analysis.R:
 
 |Variable Name	|	Variable Label|
 |---|---|
-
 |subjectID	|	Identifier for volunteer performing the activity. Values 1-30.|
 |activityID	|	Identifies which of six activities were performed for the observation. Values 1-6. Created by indexing activity_labels.txt file available in source data|
 |TimeBodyAcc.Mean.X	|	Mean of body acceleration signal in X direction|
